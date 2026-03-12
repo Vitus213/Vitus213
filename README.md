@@ -9,8 +9,8 @@
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=Vitus213&theme=merko&date_format=%5BY.%5Dn.j&card_width=400&hide_border=true&card_height=200" />
 <br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Vitus213&theme=merko&layout=compact&langs_count=8"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitus213&theme=merko&hide_border=true&layout=compact&langs_count=8"/>
+<img align="center" src="https://github-readme-stats-pi-liart-38.vercel.app/api/wakatime?username=Vitus213&theme=merko&layout=compact&langs_count=8"/>
+<img align="center" src="https://github-readme-stats-pi-liart-38.vercel.app/api/top-langs/?username=Vitus213&theme=merko&hide_border=true&layout=compact&langs_count=8"/>
 <br/>
 </p>
 
