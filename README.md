@@ -4,13 +4,13 @@
 </p>
 
 <p align="center">
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Vitus213&theme=merko&rank_icon=percentile&show_icons=true&hide_border=true&show=reviews&card_width=400&hide=contrib" />
+<img align="center" width="400" src="https://github-readme-stats-3vxe6kfn8-zhz-vites-projects.vercel.app/api?username=Vitus213&theme=dark&rank_icon=percentile&show_icons=true&hide_border=true&show=reviews&card_width=400&hide=contrib" />
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=Vitus213&theme=merko&date_format=%5BY.%5Dn.j&card_width=400&hide_border=true&card_height=200" />
+<img align="center" width="400" src="https://streak-stats.demolab.com?user=Vitus213&theme=dark&date_format=%5BY.%5Dn.j&card_width=400&hide_border=true&card_height=200" />
 <br/>
 
-<img align="center" src="https://github-readme-stats-pi-liart-38.vercel.app/api/wakatime?username=Vitus213&theme=merko&layout=compact&langs_count=8"/>
-<img align="center" src="https://github-readme-stats-pi-liart-38.vercel.app/api/top-langs/?username=Vitus213&theme=merko&hide_border=true&layout=compact&langs_count=8"/>
+<img align="center" src="https://github-readme-stats-3vxe6kfn8-zhz-vites-projects.vercel.app/api/wakatime?username=Vitus213&theme=dark&layout=compact&langs_count=8"/>
+<img align="center" src="https://github-readme-stats-3vxe6kfn8-zhz-vites-projects.vercel.app/api/top-langs/?username=Vitus213&theme=dark&hide_border=true&layout=compact&langs_count=8"/>
 <br/>
 </p>
 
