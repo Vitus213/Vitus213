@@ -9,14 +9,11 @@
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=Vitus213&theme=dark&date_format=%5BY.%5Dn.j&card_width=400&hide_border=true&card_height=200" />
 <br/>
 
-<img align="center" width="810" src="https://github-readme-stats-3vxe6kfn8-zhz-vites-projects.vercel.app/api/top-langs/?username=Vitus213&theme=dark&hide_border=true&layout=compact&langs_count=8&card_width=810"/>
-<br/>
-
-<!-- AI agent 用量卡片：由 nix-config 的 agent-usage-report 每小时推送到 agent-usage 分支 -->
-<!-- 有额度版本（活跃时长 + token + 折算成本） -->
-<img align="center" width="810" src="https://raw.githubusercontent.com/Vitus213/Vitus213/agent-usage/agent-usage.svg"/>
+<img align="center" width="400" src="https://github-readme-stats-3vxe6kfn8-zhz-vites-projects.vercel.app/api/top-langs/?username=Vitus213&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=400"/>
+<!-- AI agent 用量卡片：由 nix-config 的 agent-usage-report 每小时推送到 agent-usage 分支，400x190 与左侧语言卡同尺寸 -->
+<img align="center" width="400" src="https://raw.githubusercontent.com/Vitus213/Vitus213/agent-usage/agent-usage-compact.svg"/>
 <!-- 无额度版本（仅活跃时长），需要隐藏额度时把上一行换成：
-<img align="center" width="810" src="https://raw.githubusercontent.com/Vitus213/Vitus213/agent-usage/agent-time.svg"/>
+<img align="center" width="400" src="https://raw.githubusercontent.com/Vitus213/Vitus213/agent-usage/agent-time-compact.svg"/>
 -->
 <br/>
 </p>
