@@ -4,13 +4,12 @@
 </p>
 
 <p align="center">
-<img align="center" width="400" src="https://github-readme-stats-3vxe6kfn8-zhz-vites-projects.vercel.app/api?username=Vitus213&theme=tokyonight&rank_icon=default&show_icons=true&hide_border=true&show=reviews&card_width=400&hide=contrib" />
-<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=Vitus213&theme=dark&date_format=%5BY.%5Dn.j&card_width=400&hide_border=true&card_height=200" />
+<!-- stats 最小宽 437、streak 同为 437x220，都缩放到 400 显示；圆角 16.4 = 15 x 437/400，缩放后与下一行的 15 一致 -->
+<img align="center" width="400" src="https://github-readme-stats-3vxe6kfn8-zhz-vites-projects.vercel.app/api?username=Vitus213&theme=gruvbox&rank_icon=default&show_icons=true&hide_border=true&show=reviews&card_width=400&hide=contrib&border_radius=16.4" />
+<img align="center" width="400" src="https://streak-stats.demolab.com?user=Vitus213&theme=gruvbox&date_format=%5BY.%5Dn.j&card_width=437&hide_border=true&card_height=220&border_radius=16.4" />
 <br/>
-
-<img align="center" width="400" src="https://github-readme-stats-3vxe6kfn8-zhz-vites-projects.vercel.app/api/top-langs/?username=Vitus213&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=400"/>
-<!-- AI agent 用量卡片：由 nix-config 的 agent-usage-report 每小时推送到 agent-usage 分支，400x190 与左侧语言卡同尺寸 -->
+<img align="center" width="400" src="https://github-readme-stats-3vxe6kfn8-zhz-vites-projects.vercel.app/api/top-langs/?username=Vitus213&theme=gruvbox&hide_border=true&layout=compact&langs_count=8&card_width=400&border_radius=15"/>
+<!-- AI agent 用量卡片：由 nix-config 的 agent-usage-report 每小时推送到 agent-usage 分支（gruvbox、圆角 15、400x190） -->
 <img align="center" width="400" src="https://raw.githubusercontent.com/Vitus213/Vitus213/agent-usage/agent-usage-compact.svg"/>
 <!-- 无额度版本（仅活跃时长），需要隐藏额度时把上一行换成：
 <img align="center" width="400" src="https://raw.githubusercontent.com/Vitus213/Vitus213/agent-usage/agent-time-compact.svg"/>
