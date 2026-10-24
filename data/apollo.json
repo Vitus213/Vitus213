@@ -1,0 +1,800 @@
+{
+  "version": 1,
+  "days": {
+    "2026-06-21": {
+      "codex": {
+        "input": 5254815,
+        "output": 610013,
+        "cache_read": 114861440,
+        "cache_write": 0,
+        "tokens": 120726268,
+        "cost": 102.005185,
+        "unpriced_tokens": 0,
+        "models": {
+          "gpt-5.5": 120726268
+        },
+        "active_seconds": 29726.0
+      }
+    },
+    "2026-06-22": {
+      "codex": {
+        "input": 271448,
+        "output": 22014,
+        "cache_read": 4916864,
+        "cache_write": 0,
+        "tokens": 5210326,
+        "cost": 4.476092,
+        "unpriced_tokens": 0,
+        "models": {
+          "gpt-5.5": 5210326
+        },
+        "active_seconds": 706.1
+      }
+    },
+    "2026-06-28": {
+      "codex": {
+        "input": 2602847,
+        "output": 290693,
+        "cache_read": 35622528,
+        "cache_write": 0,
+        "tokens": 38516068,
+        "cost": 39.546289,
+        "unpriced_tokens": 0,
+        "models": {
+          "gpt-5.5": 38516068
+        },
+        "active_seconds": 15709.5
+      }
+    },
+    "2026-06-29": {
+      "codex": {
+        "input": 1392824,
+        "output": 165733,
+        "cache_read": 19621248,
+        "cache_write": 0,
+        "tokens": 21179805,
+        "cost": 21.746734,
+        "unpriced_tokens": 0,
+        "models": {
+          "gpt-5.5": 21179805
+        },
+        "active_seconds": 6695.1
+      }
+    },
+    "2026-06-30": {
+      "codex": {
+        "input": 1899079,
+        "output": 180815,
+        "cache_read": 29537920,
+        "cache_write": 0,
+        "tokens": 31617814,
+        "cost": 29.688805,
+        "unpriced_tokens": 0,
+        "models": {
+          "gpt-5.5": 31617814
+        },
+        "active_seconds": 6832.3
+      }
+    },
+    "2026-07-01": {
+      "codex": {
+        "input": 618924,
+        "output": 59035,
+        "cache_read": 20153600,
+        "cache_write": 0,
+        "tokens": 20831559,
+        "cost": 14.94247,
+        "unpriced_tokens": 0,
+        "models": {
+          "gpt-5.5": 20831559
+        },
+        "active_seconds": 5108.2
+      }
+    },
+    "2026-07-02": {
+      "codex": {
+        "input": 304254,
+        "output": 66203,
+        "cache_read": 9280384,
+        "cache_write": 0,
+        "tokens": 9650841,
+        "cost": 8.147552,
+        "unpriced_tokens": 0,
+        "models": {
+          "gpt-5.5": 9650841
+        },
+        "active_seconds": 4190.2
+      }
+    },
+    "2026-07-03": {
+      "codex": {
+        "input": 306448,
+        "output": 24709,
+        "cache_read": 1208704,
+        "cache_write": 0,
+        "tokens": 1539861,
+        "cost": 2.877862,
+        "unpriced_tokens": 0,
+        "models": {
+          "gpt-5.5": 1539861
+        },
+        "active_seconds": 1664.0
+      }
+    },
+    "2026-07-04": {
+      "codex": {
+        "input": 4342529,
+        "output": 395813,
+        "cache_read": 62211456,
+        "cache_write": 0,
+        "tokens": 66949798,
+        "cost": 64.692763,
+        "unpriced_tokens": 0,
+        "models": {
+          "gpt-5.5": 66949798
+        },
+        "active_seconds": 20753.3
+      },
+      "omp": {
+        "input": 24549,
+        "output": 25,
+        "cache_read": 0,
+        "cache_write": 0,
+        "tokens": 24574,
+        "cost": 0.123495,
+        "unpriced_tokens": 0,
+        "models": {
+          "gpt-5.5": 24574
+        },
+        "active_seconds": 813.9
+      }
+    },
+    "2026-07-05": {
+      "omp": {
+        "input": 362862,
+        "output": 67140,
+        "cache_read": 7681536,
+        "cache_write": 0,
+        "tokens": 8111538,
+        "cost": 7.669278,
+        "unpriced_tokens": 0,
+        "models": {
+          "gpt-5.5": 8111538
+        },
+        "active_seconds": 2146.2
+      }
+    },
+    "2026-07-09": {
+      "omp": {
+        "input": 88230,
+        "output": 5288,
+        "cache_read": 287744,
+        "cache_write": 0,
+        "tokens": 381262,
+        "cost": 0.743662,
+        "unpriced_tokens": 0,
+        "models": {
+          "gpt-5.5": 381262
+        },
+        "active_seconds": 165.7
+      }
+    },
+    "2026-07-10": {
+      "omp": {
+        "input": 478165,
+        "output": 38891,
+        "cache_read": 7049216,
+        "cache_write": 0,
+        "tokens": 7566272,
+        "cost": 7.05699,
+        "unpriced_tokens": 0,
+        "models": {
+          "gpt-5.6-sol": 25065,
+          "gpt-5.5": 7541207
+        },
+        "active_seconds": 978.9
+      }
+    },
+    "2026-07-11": {
+      "omp": {
+        "input": 3659337,
+        "output": 272033,
+        "cache_read": 81469952,
+        "cache_write": 0,
+        "tokens": 85401322,
+        "cost": 58.805044,
+        "unpriced_tokens": 0,
+        "models": {
+          "gpt-5.6-sol": 81236894,
+          "gpt-5.6-terra": 4164428
+        },
+        "active_seconds": 12362.8
+      }
+    },
+    "2026-07-12": {
+      "omp": {
+        "input": 3257167,
+        "output": 221476,
+        "cache_read": 70899200,
+        "cache_write": 0,
+        "tokens": 74377843,
+        "cost": 48.831342,
+        "unpriced_tokens": 0,
+        "models": {
+          "gpt-5.6-sol": 74377843
+        },
+        "active_seconds": 13471.5
+      }
+    },
+    "2026-07-13": {
+      "omp": {
+        "input": 10133210,
+        "output": 763137,
+        "cache_read": 138207744,
+        "cache_write": 0,
+        "tokens": 149104091,
+        "cost": 113.045311,
+        "unpriced_tokens": 0,
+        "models": {
+          "gpt-5.6-sol": 137764540,
+          "gpt-5.6-terra": 11339551
+        },
+        "active_seconds": 18244.6
+      }
+    },
+    "2026-07-14": {
+      "omp": {
+        "input": 314367,
+        "output": 9217,
+        "cache_read": 1743872,
+        "cache_write": 0,
+        "tokens": 2067456,
+        "cost": 2.139357,
+        "unpriced_tokens": 0,
+        "models": {
+          "gpt-5.6-sol": 2067456
+        },
+        "active_seconds": 978.8
+      }
+    },
+    "2026-07-15": {
+      "omp": {
+        "input": 890573,
+        "output": 35699,
+        "cache_read": 11897856,
+        "cache_write": 0,
+        "tokens": 12824128,
+        "cost": 9.035414,
+        "unpriced_tokens": 0,
+        "models": {
+          "gpt-5.6-sol": 12824128
+        },
+        "active_seconds": 3029.9
+      }
+    },
+    "2026-07-16": {
+      "omp": {
+        "input": 212535,
+        "output": 7969,
+        "cache_read": 2470912,
+        "cache_write": 0,
+        "tokens": 2691416,
+        "cost": 1.997885,
+        "unpriced_tokens": 0,
+        "models": {
+          "gpt-5.6-sol": 2691416
+        },
+        "active_seconds": 495.4
+      }
+    },
+    "2026-07-18": {
+      "omp": {
+        "input": 1238409,
+        "output": 125089,
+        "cache_read": 20977152,
+        "cache_write": 0,
+        "tokens": 22340650,
+        "cost": 15.22629,
+        "unpriced_tokens": 0,
+        "models": {
+          "gpt-5.6-sol": 20649721,
+          "gpt-5.6-terra": 1690929
+        },
+        "active_seconds": 7885.2
+      }
+    },
+    "2026-07-19": {
+      "omp": {
+        "input": 563158,
+        "output": 44716,
+        "cache_read": 6383616,
+        "cache_write": 0,
+        "tokens": 6991490,
+        "cost": 5.700398,
+        "unpriced_tokens": 0,
+        "models": {
+          "gpt-5.6-sol": 6991490
+        },
+        "active_seconds": 3064.7
+      }
+    },
+    "2026-07-22": {
+      "omp": {
+        "input": 670128,
+        "output": 50288,
+        "cache_read": 11730944,
+        "cache_write": 0,
+        "tokens": 12451360,
+        "cost": 8.37865,
+        "unpriced_tokens": 0,
+        "models": {
+          "gpt-5.6-sol": 12451360
+        },
+        "active_seconds": 5757.0
+      }
+    },
+    "2026-07-23": {
+      "omp": {
+        "input": 1215591,
+        "output": 112434,
+        "cache_read": 45106688,
+        "cache_write": 0,
+        "tokens": 46434713,
+        "cost": 32.935674,
+        "unpriced_tokens": 0,
+        "models": {
+          "gpt-5.6-sol": 45066306,
+          "gpt-5.6-terra": 1368407
+        },
+        "active_seconds": 6884.5
+      }
+    },
+    "2026-07-24": {
+      "omp": {
+        "input": 65339,
+        "output": 4085,
+        "cache_read": 853504,
+        "cache_write": 0,
+        "tokens": 922928,
+        "cost": 0.684458,
+        "unpriced_tokens": 0,
+        "models": {
+          "gpt-5.6-sol": 922928
+        },
+        "active_seconds": 1530.6
+      }
+    },
+    "2026-07-25": {
+      "omp": {
+        "input": 6860560,
+        "output": 359672,
+        "cache_read": 134902272,
+        "cache_write": 0,
+        "tokens": 142122504,
+        "cost": 53.740743,
+        "unpriced_tokens": 0,
+        "models": {
+          "gpt-5.6-terra": 138879210,
+          "gpt-5.6-sol": 3243294
+        },
+        "active_seconds": 11697.8
+      }
+    },
+    "2026-07-26": {
+      "omp": {
+        "input": 2503400,
+        "output": 384836,
+        "cache_read": 72315392,
+        "cache_write": 0,
+        "tokens": 75203628,
+        "cost": 27.983209,
+        "unpriced_tokens": 0,
+        "models": {
+          "gpt-5.6-terra": 71406675,
+          "gpt-5.6-sol": 3796953
+        },
+        "active_seconds": 13302.8
+      }
+    },
+    "2026-08-08": {
+      "omp": {
+        "input": 9362060,
+        "output": 390756,
+        "cache_read": 112423424,
+        "cache_write": 0,
+        "tokens": 122176240,
+        "cost": 98.010503,
+        "unpriced_tokens": 0,
+        "models": {
+          "gpt-5.6-sol": 115223680,
+          "gpt-5.6-terra": 6952560
+        },
+        "active_seconds": 13606.1
+      }
+    },
+    "2026-08-10": {
+      "omp": {
+        "input": 4306720,
+        "output": 137706,
+        "cache_read": 50125312,
+        "cache_write": 0,
+        "tokens": 54569738,
+        "cost": 47.540794,
+        "unpriced_tokens": 0,
+        "models": {
+          "gpt-5.6-sol": 54569738
+        },
+        "active_seconds": 7846.5
+      }
+    },
+    "2026-08-11": {
+      "omp": {
+        "input": 4459301,
+        "output": 133642,
+        "cache_read": 46890624,
+        "cache_write": 0,
+        "tokens": 51483567,
+        "cost": 46.230354,
+        "unpriced_tokens": 0,
+        "models": {
+          "gpt-5.6-sol": 51483567
+        },
+        "active_seconds": 5673.2
+      }
+    },
+    "2026-08-12": {
+      "omp": {
+        "input": 12583295,
+        "output": 800745,
+        "cache_read": 195814528,
+        "cache_write": 0,
+        "tokens": 209198568,
+        "cost": 124.305363,
+        "unpriced_tokens": 0,
+        "models": {
+          "gpt-5.6-sol": 122502636,
+          "deepseek-v4-flash": 86695932
+        },
+        "active_seconds": 23329.4
+      }
+    },
+    "2026-08-13": {
+      "omp": {
+        "input": 5551413,
+        "output": 616389,
+        "cache_read": 128268160,
+        "cache_write": 0,
+        "tokens": 134435962,
+        "cost": 38.783141,
+        "unpriced_tokens": 0,
+        "models": {
+          "deepseek-v4-flash": 43991284,
+          "deepseek-v4-flash-0731": 59195186,
+          "gpt-5.6-sol": 31249492
+        },
+        "active_seconds": 18492.7
+      }
+    },
+    "2026-08-14": {
+      "omp": {
+        "input": 4949789,
+        "output": 508126,
+        "cache_read": 90884864,
+        "cache_write": 0,
+        "tokens": 96342779,
+        "cost": 74.47564,
+        "unpriced_tokens": 0,
+        "models": {
+          "gpt-5.6-sol": 89631669,
+          "qwen3.8-max": 2270926,
+          "deepseek-v4-flash-0731": 4440184
+        },
+        "active_seconds": 17417.3
+      }
+    },
+    "2026-08-15": {
+      "omp": {
+        "input": 7541290,
+        "output": 2528679,
+        "cache_read": 465116544,
+        "cache_write": 0,
+        "tokens": 475186513,
+        "cost": 149.724743,
+        "unpriced_tokens": 0,
+        "models": {
+          "qwen3.8-max": 468431045,
+          "gpt-5.5": 2272804,
+          "gpt-5.6-sol": 4482664
+        },
+        "active_seconds": 44834.1
+      }
+    },
+    "2026-08-16": {
+      "omp": {
+        "input": 9431042,
+        "output": 2105007,
+        "cache_read": 286212480,
+        "cache_write": 0,
+        "tokens": 297748529,
+        "cost": 103.571669,
+        "unpriced_tokens": 0,
+        "models": {
+          "qwen3.8-max": 126787924,
+          "deepseek-v4-pro-0813": 104737255,
+          "gpt-5.5": 631878,
+          "gpt-5.6-sol": 54659864,
+          "deepseek-v4-flash-0731": 10931608
+        },
+        "active_seconds": 34058.8
+      }
+    },
+    "2026-08-17": {
+      "omp": {
+        "input": 3603607,
+        "output": 1012707,
+        "cache_read": 354846208,
+        "cache_write": 0,
+        "tokens": 359462522,
+        "cost": 38.403541,
+        "unpriced_tokens": 0,
+        "models": {
+          "qwen3.8-max": 49516364,
+          "deepseek-v4-pro-0813": 306854540,
+          "gpt-5.6-sol": 3091618
+        },
+        "active_seconds": 29620.7
+      }
+    },
+    "2026-08-18": {
+      "omp": {
+        "input": 2601692,
+        "output": 451893,
+        "cache_read": 208797696,
+        "cache_write": 0,
+        "tokens": 211851281,
+        "cost": 14.851316,
+        "unpriced_tokens": 0,
+        "models": {
+          "deepseek-v4-pro-0813": 210128090,
+          "qwen3.8-max": 1723191
+        },
+        "active_seconds": 12906.9
+      }
+    },
+    "2026-08-19": {
+      "omp": {
+        "input": 43957,
+        "output": 16550,
+        "cache_read": 397312,
+        "cache_write": 0,
+        "tokens": 457819,
+        "cost": 0.141043,
+        "unpriced_tokens": 0,
+        "models": {
+          "deepseek-v4-pro-0813": 457819
+        },
+        "active_seconds": 329.7
+      }
+    },
+    "2026-08-23": {
+      "omp": {
+        "input": 0,
+        "output": 0,
+        "cache_read": 0,
+        "cache_write": 0,
+        "tokens": 0,
+        "cost": 0.0,
+        "unpriced_tokens": 0,
+        "models": {},
+        "active_seconds": 0.1
+      }
+    },
+    "2026-08-25": {
+      "omp": {
+        "input": 210877,
+        "output": 1447,
+        "cache_read": 416768,
+        "cache_write": 0,
+        "tokens": 629092,
+        "cost": 0.302426,
+        "unpriced_tokens": 0,
+        "models": {
+          "deepseek-v4-pro-0813": 629092
+        },
+        "active_seconds": 35.9
+      }
+    },
+    "2026-08-26": {
+      "omp": {
+        "input": 93206,
+        "output": 36985,
+        "cache_read": 1418240,
+        "cache_write": 0,
+        "tokens": 1548431,
+        "cost": 0.090165,
+        "unpriced_tokens": 0,
+        "models": {
+          "deepseek-v4-flash-0731": 1548431
+        },
+        "active_seconds": 1877.0
+      }
+    },
+    "2026-08-28": {
+      "omp": {
+        "input": 658940,
+        "output": 101400,
+        "cache_read": 16316416,
+        "cache_write": 0,
+        "tokens": 17076756,
+        "cost": 6.145221,
+        "unpriced_tokens": 0,
+        "models": {
+          "deepseek-v4-flash-0731": 8709262,
+          "gpt-5.6-sol": 8367494
+        },
+        "active_seconds": 4189.6
+      }
+    },
+    "2026-08-29": {
+      "omp": {
+        "input": 488817,
+        "output": 3902,
+        "cache_read": 619520,
+        "cache_write": 0,
+        "tokens": 1112239,
+        "cost": 0.124105,
+        "unpriced_tokens": 0,
+        "models": {
+          "deepseek-v4-flash-0731": 1112239
+        },
+        "active_seconds": 386.8
+      }
+    },
+    "2026-09-07": {
+      "omp": {
+        "input": 329552,
+        "output": 115238,
+        "cache_read": 10322944,
+        "cache_write": 0,
+        "tokens": 10767734,
+        "cost": 0.524923,
+        "unpriced_tokens": 0,
+        "models": {
+          "deepseek-v4-flash-0731": 10767734
+        },
+        "active_seconds": 2546.9
+      }
+    },
+    "2026-09-08": {
+      "omp": {
+        "input": 215520,
+        "output": 122673,
+        "cache_read": 36262912,
+        "cache_write": 0,
+        "tokens": 36601105,
+        "cost": 1.54269,
+        "unpriced_tokens": 0,
+        "models": {
+          "deepseek-v4-flash-0731": 36601105
+        },
+        "active_seconds": 3790.1
+      }
+    },
+    "2026-10-19": {
+      "omp": {
+        "input": 294744,
+        "output": 20829,
+        "cache_read": 1869122,
+        "cache_write": 0,
+        "tokens": 2184695,
+        "cost": 2.343205,
+        "unpriced_tokens": 0,
+        "models": {
+          "gpt-5.6-sol": 2184695
+        },
+        "active_seconds": 2438.4
+      }
+    },
+    "2026-10-20": {
+      "claude": {
+        "input": 4499642,
+        "output": 1212214,
+        "cache_read": 324297435,
+        "cache_write": 4626692,
+        "tokens": 334635983,
+        "cost": 130.235795,
+        "unpriced_tokens": 0,
+        "models": {
+          "claude-opus-5-5": 334635983
+        },
+        "active_seconds": 29059.1
+      },
+      "omp": {
+        "input": 641310,
+        "output": 47754,
+        "cache_read": 10821131,
+        "cache_write": 0,
+        "tokens": 11510195,
+        "cost": 9.516765,
+        "unpriced_tokens": 0,
+        "models": {
+          "gpt-5.6-sol": 11510195
+        },
+        "active_seconds": 5412.8
+      }
+    },
+    "2026-10-21": {
+      "claude": {
+        "input": 6140,
+        "output": 2362803,
+        "cache_read": 467700400,
+        "cache_write": 8650029,
+        "tokens": 478719372,
+        "cost": 207.772147,
+        "unpriced_tokens": 0,
+        "models": {
+          "claude-opus-5-5": 453011405,
+          "claude-fable-5-1": 23941979,
+          "claude-sonnet-5-5": 1765988
+        },
+        "active_seconds": 38990.8
+      }
+    },
+    "2026-10-22": {
+      "claude": {
+        "input": 10820,
+        "output": 2070835,
+        "cache_read": 415713074,
+        "cache_write": 9271746,
+        "tokens": 427066475,
+        "cost": 201.87415,
+        "unpriced_tokens": 0,
+        "models": {
+          "claude-opus-5-5": 405250655,
+          "claude-fable-5-1": 21815820
+        },
+        "active_seconds": 38688.6
+      }
+    },
+    "2026-10-23": {
+      "claude": {
+        "input": 11668,
+        "output": 1689296,
+        "cache_read": 284498439,
+        "cache_write": 9050799,
+        "tokens": 295250202,
+        "cost": 195.717062,
+        "unpriced_tokens": 0,
+        "models": {
+          "claude-fable-5-1": 67804433,
+          "claude-opus-5-5": 227445769
+        },
+        "active_seconds": 23989.7
+      }
+    },
+    "2026-10-24": {
+      "claude": {
+        "input": 186,
+        "output": 51348,
+        "cache_read": 9543739,
+        "cache_write": 296298,
+        "tokens": 9891571,
+        "cost": 5.306836,
+        "unpriced_tokens": 0,
+        "models": {
+          "claude-opus-5-5": 9891571
+        },
+        "active_seconds": 1302.5
+      }
+    }
+  },
+  "omp_pricing": {
+    "gpt-5.6-terra": "gpt-5.6-terra",
+    "gpt-5.6-sol": "gpt-5.6-sol",
+    "qwen3.8-max": "dashscope/qwen3.8-max",
+    "deepseek-v4-pro-0813": "deepseek-v4-pro",
+    "gpt-5.5": "gpt-5.5",
+    "deepseek-v4-flash-0731": "dashscope/deepseek-v4-flash-0731",
+    "deepseek-v4-flash": "deepseek-v4-flash"
+  }
+}

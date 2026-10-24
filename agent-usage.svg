@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="810" height="316" viewBox="0 0 810 316" role="img" aria-label="AI agent usage">
+<style>text{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif}.t{font-size:18px;font-weight:600;fill:#fabd2f}.s{font-size:12px;fill:#607c56}.h{font-size:12px;font-weight:600;fill:#607c56}.c{font-size:14px;fill:#8ec07c}.b{font-size:14px;font-weight:600;fill:#8ec07c}.f{font-size:11px;fill:#607c56}</style>
+<rect width="810" height="316" rx="15.0" fill="#282828"/>
+<text x="30" y="36" class="t">AI Agent Usage</text>
+<text x="780" y="36" class="s" text-anchor="end">since 2026-06-21 · updated 2026-10-24 23:02 CST</text>
+<text x="30" y="64" class="h" text-anchor="start">Agent</text>
+<text x="250" y="64" class="h" text-anchor="end">Active 30d</text>
+<text x="360" y="64" class="h" text-anchor="end">Tokens 30d</text>
+<text x="470" y="64" class="h" text-anchor="end">Cost 30d</text>
+<text x="600" y="64" class="h" text-anchor="end">Tokens total</text>
+<text x="720" y="64" class="h" text-anchor="end">Cost total</text>
+<line x1="30" x2="780" y1="72" y2="72" stroke="#3a4337"/>
+<circle cx="36" cy="87" r="5" fill="#ff9e64"/>
+<text x="50" y="92" class="c">Claude Code</text>
+<text x="250" y="92" class="c" text-anchor="end">36h 41m</text>
+<text x="360" y="92" class="c" text-anchor="end">1.55B</text>
+<text x="470" y="92" class="c" text-anchor="end">$740.91</text>
+<text x="600" y="92" class="c" text-anchor="end">1.55B</text>
+<text x="720" y="92" class="c" text-anchor="end">$740.91</text>
+<circle cx="36" cy="113" r="5" fill="#7aa2f7"/>
+<text x="50" y="118" class="c">Codex</text>
+<text x="250" y="118" class="c" text-anchor="end">0m</text>
+<text x="360" y="118" class="c" text-anchor="end">0</text>
+<text x="470" y="118" class="c" text-anchor="end">$0.00</text>
+<text x="600" y="118" class="c" text-anchor="end">316.2M</text>
+<text x="720" y="118" class="c" text-anchor="end">$288.12</text>
+<circle cx="36" cy="139" r="5" fill="#9ece6a"/>
+<text x="50" y="144" class="c">omp</text>
+<text x="250" y="144" class="c" text-anchor="end">2h 11m</text>
+<text x="360" y="144" class="c" text-anchor="end">13.7M</text>
+<text x="470" y="144" class="c" text-anchor="end">$11.86</text>
+<text x="600" y="144" class="c" text-anchor="end">2.74B</text>
+<text x="720" y="144" class="c" text-anchor="end">$1,151</text>
+<line x1="30" x2="780" y1="152" y2="152" stroke="#3a4337"/>
+<text x="30" y="170" class="b">Total</text>
+<text x="250" y="170" class="b" text-anchor="end">38h 51m</text>
+<text x="360" y="170" class="b" text-anchor="end">1.56B</text>
+<text x="470" y="170" class="b" text-anchor="end">$752.77</text>
+<text x="600" y="170" class="b" text-anchor="end">4.61B</text>
+<text x="720" y="170" class="b" text-anchor="end">$2,180</text>
+<text x="30" y="196" class="h">Daily tokens · last 30 days</text>
+<rect x="631.5" y="269.7" width="22.0" height="0.3" rx="1.5" fill="#9ece6a"/>
+<rect x="656.5" y="228.1" width="22.0" height="41.9" rx="1.5" fill="#ff9e64"/>
+<rect x="656.5" y="226.6" width="22.0" height="1.4" rx="1.5" fill="#9ece6a"/>
+<rect x="681.5" y="210.0" width="22.0" height="60.0" rx="1.5" fill="#ff9e64"/>
+<rect x="706.5" y="216.5" width="22.0" height="53.5" rx="1.5" fill="#ff9e64"/>
+<rect x="731.5" y="233.0" width="22.0" height="37.0" rx="1.5" fill="#ff9e64"/>
+<rect x="756.5" y="268.8" width="22.0" height="1.2" rx="1.5" fill="#ff9e64"/>
+<line x1="30" x2="780" y1="270" y2="270" stroke="#3a4337"/>
+<text x="30" y="284" class="f">09-25</text>
+<text x="780" y="284" class="f" text-anchor="end">10-24</text>
+<text x="780" y="196" class="f" text-anchor="end">peak 478.7M/day</text>
+<text x="30" y="302" class="f">Cost = public API list price via ccusage / LiteLLM, not actual billing (subscriptions differ).</text>
+</svg>
