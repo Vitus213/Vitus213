@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "days": {
+    "2026-10-27": {
+      "omp": {
+        "input": 553899,
+        "output": 155772,
+        "cache_read": 15930432,
+        "cache_write": 0,
+        "tokens": 16640103,
+        "cost": 0.638884,
+        "unpriced_tokens": 0,
+        "models": {
+          "glm-5.3-flash": 16640103
+        },
+        "active_seconds": 9245.4
+      }
+    },
+    "2026-10-28": {
+      "omp": {
+        "input": 11739471,
+        "output": 684154,
+        "cache_read": 157999244,
+        "cache_write": 0,
+        "tokens": 170422869,
+        "cost": 22.870423,
+        "unpriced_tokens": 86531259,
+        "models": {
+          "deepseek-v4.1-flash": 86531259,
+          "gpt-6.1-sol": 64346616,
+          "glm-5.3-flash": 19544994
+        },
+        "active_seconds": 20199.8
+      }
+    },
+    "2026-10-29": {
+      "omp": {
+        "input": 18303545,
+        "output": 1709951,
+        "cache_read": 337487868,
+        "cache_write": 0,
+        "tokens": 357501364,
+        "cost": 88.585667,
+        "unpriced_tokens": 45677275,
+        "models": {
+          "auto/gpt-6.1-sol": 252083960,
+          "auto/glm-5.3-flash": 29463026,
+          "gpt-6.1-sol": 19113572,
+          "deepseek-v4.1-flash": 45677275,
+          "glm-5.3-flash": 11163531
+        },
+        "active_seconds": 47978.8
+      }
+    },
+    "2026-10-30": {
+      "omp": {
+        "input": 8562959,
+        "output": 1389869,
+        "cache_read": 408975680,
+        "cache_write": 0,
+        "tokens": 418928508,
+        "cost": 27.138854,
+        "unpriced_tokens": 22199168,
+        "models": {
+          "auto/gpt-6.1-sol": 84946112,
+          "glm-5.3-flash": 9034602,
+          "newapi/deepseek-v4.1-flash": 22199168,
+          "auto/glm-5.3-flash": 95268518,
+          "group/deepseek-v4-flash": 141302508,
+          "deepseek/deepseek-flash": 66177600
+        },
+        "active_seconds": 33886.8
+      }
+    },
+    "2026-10-31": {
+      "omp": {
+        "input": 26198,
+        "output": 27118,
+        "cache_read": 13995520,
+        "cache_write": 0,
+        "tokens": 14048836,
+        "cost": 0.124374,
+        "unpriced_tokens": 0,
+        "models": {
+          "group/deepseek-v4-flash": 14048836
+        },
+        "active_seconds": 999.1
+      }
+    }
+  },
+  "omp_pricing": {
+    "auto/gpt-6.1-sol": "gpt-6.1-sol",
+    "glm-5.3-flash": "zai/glm-5.3-flash",
+    "newapi/deepseek-v4.1-flash": null,
+    "auto/glm-5.3-flash": "zai/glm-5.3-flash",
+    "gpt-6.1-sol": "gpt-6.1-sol",
+    "deepseek-v4.1-flash": null,
+    "group/deepseek-v4-flash": "deepseek-v4-flash",
+    "deepseek/deepseek-flash": "deepseek-flash"
+  }
+}

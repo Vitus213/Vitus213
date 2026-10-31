@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="810" height="316" viewBox="0 0 810 316" role="img" aria-label="AI agent usage">
+<style>text{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif}.t{font-size:18px;font-weight:600;fill:#fabd2f}.s{font-size:12px;fill:#607c56}.h{font-size:12px;font-weight:600;fill:#607c56}.c{font-size:14px;fill:#8ec07c}.b{font-size:14px;font-weight:600;fill:#8ec07c}.f{font-size:11px;fill:#607c56}</style>
+<rect width="810" height="316" rx="15.0" fill="#282828"/>
+<text x="30" y="36" class="t">AI Agent Time</text>
+<text x="780" y="36" class="s" text-anchor="end">since 2026-05-13 · updated 2026-10-31 20:03 CST</text>
+<text x="30" y="64" class="h" text-anchor="start">Agent</text>
+<text x="330" y="64" class="h" text-anchor="end">Active 7d</text>
+<text x="520" y="64" class="h" text-anchor="end">Active 30d</text>
+<text x="720" y="64" class="h" text-anchor="end">Active total</text>
+<line x1="30" x2="780" y1="72" y2="72" stroke="#3a4337"/>
+<circle cx="36" cy="87" r="5" fill="#ff9e64"/>
+<text x="50" y="92" class="c">Claude Code</text>
+<text x="330" y="92" class="c" text-anchor="end">7h 44m</text>
+<text x="520" y="92" class="c" text-anchor="end">44h 25m</text>
+<text x="720" y="92" class="c" text-anchor="end">44h 25m</text>
+<circle cx="36" cy="113" r="5" fill="#7aa2f7"/>
+<text x="50" y="118" class="c">Codex</text>
+<text x="330" y="118" class="c" text-anchor="end">20m</text>
+<text x="520" y="118" class="c" text-anchor="end">27m</text>
+<text x="720" y="118" class="c" text-anchor="end">38h 28m</text>
+<circle cx="36" cy="139" r="5" fill="#9ece6a"/>
+<text x="50" y="144" class="c">omp</text>
+<text x="330" y="144" class="c" text-anchor="end">85h 44m</text>
+<text x="520" y="144" class="c" text-anchor="end">176h 42m</text>
+<text x="720" y="144" class="c" text-anchor="end">294h 26m</text>
+<line x1="30" x2="780" y1="152" y2="152" stroke="#3a4337"/>
+<text x="30" y="170" class="b">Total</text>
+<text x="330" y="170" class="b" text-anchor="end">93h 48m</text>
+<text x="520" y="170" class="b" text-anchor="end">221h 34m</text>
+<text x="720" y="170" class="b" text-anchor="end">377h 19m</text>
+<text x="30" y="196" class="h">Daily active time · last 30 days</text>
+<rect x="31.5" y="256.9" width="22.0" height="13.1" rx="1.5" fill="#9ece6a"/>
+<rect x="81.5" y="256.3" width="22.0" height="13.7" rx="1.5" fill="#9ece6a"/>
+<rect x="106.5" y="249.1" width="22.0" height="20.9" rx="1.5" fill="#9ece6a"/>
+<rect x="131.5" y="239.3" width="22.0" height="30.7" rx="1.5" fill="#9ece6a"/>
+<rect x="156.5" y="250.8" width="22.0" height="19.2" rx="1.5" fill="#9ece6a"/>
+<rect x="181.5" y="251.4" width="22.0" height="18.6" rx="1.5" fill="#9ece6a"/>
+<rect x="206.5" y="268.0" width="22.0" height="2.0" rx="1.5" fill="#9ece6a"/>
+<rect x="231.5" y="266.3" width="22.0" height="3.7" rx="1.5" fill="#9ece6a"/>
+<rect x="356.5" y="267.8" width="22.0" height="2.2" rx="1.5" fill="#9ece6a"/>
+<rect x="381.5" y="255.5" width="22.0" height="14.5" rx="1.5" fill="#9ece6a"/>
+<rect x="406.5" y="269.8" width="22.0" height="0.2" rx="1.5" fill="#7aa2f7"/>
+<rect x="406.5" y="252.0" width="22.0" height="17.7" rx="1.5" fill="#9ece6a"/>
+<rect x="431.5" y="257.5" width="22.0" height="12.5" rx="1.5" fill="#9ece6a"/>
+<rect x="456.5" y="257.4" width="22.0" height="12.6" rx="1.5" fill="#9ece6a"/>
+<rect x="481.5" y="253.5" width="22.0" height="16.5" rx="1.5" fill="#ff9e64"/>
+<rect x="481.5" y="248.7" width="22.0" height="4.8" rx="1.5" fill="#9ece6a"/>
+<rect x="506.5" y="247.8" width="22.0" height="22.2" rx="1.5" fill="#ff9e64"/>
+<rect x="506.5" y="247.8" width="22.0" height="0.0" rx="1.5" fill="#9ece6a"/>
+<rect x="531.5" y="248.0" width="22.0" height="22.0" rx="1.5" fill="#ff9e64"/>
+<rect x="556.5" y="256.4" width="22.0" height="13.6" rx="1.5" fill="#ff9e64"/>
+<rect x="581.5" y="269.3" width="22.0" height="0.7" rx="1.5" fill="#ff9e64"/>
+<rect x="606.5" y="265.1" width="22.0" height="4.9" rx="1.5" fill="#ff9e64"/>
+<rect x="631.5" y="261.1" width="22.0" height="8.9" rx="1.5" fill="#ff9e64"/>
+<rect x="631.5" y="240.8" width="22.0" height="20.3" rx="1.5" fill="#9ece6a"/>
+<rect x="656.5" y="268.4" width="22.0" height="1.6" rx="1.5" fill="#ff9e64"/>
+<rect x="656.5" y="242.6" width="22.0" height="25.8" rx="1.5" fill="#9ece6a"/>
+<rect x="681.5" y="269.5" width="22.0" height="0.5" rx="1.5" fill="#ff9e64"/>
+<rect x="681.5" y="269.0" width="22.0" height="0.5" rx="1.5" fill="#7aa2f7"/>
+<rect x="681.5" y="232.5" width="22.0" height="36.5" rx="1.5" fill="#9ece6a"/>
+<rect x="706.5" y="210.0" width="22.0" height="60.0" rx="1.5" fill="#9ece6a"/>
+<rect x="731.5" y="269.9" width="22.0" height="0.1" rx="1.5" fill="#7aa2f7"/>
+<rect x="731.5" y="237.4" width="22.0" height="32.5" rx="1.5" fill="#9ece6a"/>
+<rect x="756.5" y="269.4" width="22.0" height="0.6" rx="1.5" fill="#9ece6a"/>
+<line x1="30" x2="780" y1="270" y2="270" stroke="#3a4337"/>
+<text x="30" y="284" class="f">10-02</text>
+<text x="780" y="284" class="f" text-anchor="end">10-31</text>
+<text x="780" y="196" class="f" text-anchor="end">peak 29h 18m/day</text>
+<text x="30" y="302" class="f">Active time = merged agent session events with gaps ≤ 15 min.</text>
+</svg>

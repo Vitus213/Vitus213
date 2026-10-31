@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="190" viewBox="0 0 400 190" role="img" aria-label="AI agent usage">
+<style>text{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif}.t{font-size:18px;font-weight:600;fill:#fabd2f}.s{font-size:11px;fill:#607c56}.h{font-size:11px;font-weight:600;fill:#607c56}.c{font-size:13px;fill:#8ec07c}.b{font-size:13px;font-weight:600;fill:#8ec07c}.f{font-size:10px;fill:#607c56}</style>
+<rect width="400" height="190" rx="15.0" fill="#282828"/>
+<text x="25" y="35" class="t">AI Agent Time</text>
+<text x="375" y="35" class="s" text-anchor="end">active time</text>
+<text x="205" y="62" class="h" text-anchor="end">7d</text>
+<text x="290" y="62" class="h" text-anchor="end">30d</text>
+<text x="375" y="62" class="h" text-anchor="end">Total</text>
+<circle cx="30" cy="79.5" r="4.5" fill="#ff9e64"/>
+<text x="42" y="84" class="c">Claude Code</text>
+<text x="205" y="84" class="c" text-anchor="end">7h 44m</text>
+<text x="290" y="84" class="c" text-anchor="end">44h 25m</text>
+<text x="375" y="84" class="c" text-anchor="end">44h 25m</text>
+<circle cx="30" cy="101.5" r="4.5" fill="#7aa2f7"/>
+<text x="42" y="106" class="c">Codex</text>
+<text x="205" y="106" class="c" text-anchor="end">20m</text>
+<text x="290" y="106" class="c" text-anchor="end">27m</text>
+<text x="375" y="106" class="c" text-anchor="end">38h 28m</text>
+<circle cx="30" cy="123.5" r="4.5" fill="#9ece6a"/>
+<text x="42" y="128" class="c">omp</text>
+<text x="205" y="128" class="c" text-anchor="end">85h 44m</text>
+<text x="290" y="128" class="c" text-anchor="end">176h 42m</text>
+<text x="375" y="128" class="c" text-anchor="end">294h 26m</text>
+<line x1="25" x2="375" y1="135" y2="135" stroke="#3a4337"/>
+<text x="25" y="150" class="b">Total</text>
+<text x="205" y="150" class="b" text-anchor="end">93h 48m</text>
+<text x="290" y="150" class="b" text-anchor="end">221h 34m</text>
+<text x="375" y="150" class="b" text-anchor="end">377h 19m</text>
+<text x="25" y="178" class="f">gaps ≤ 15 min</text>
+<text x="375" y="178" class="f" text-anchor="end">2026-10-31 20:03 CST</text>
+</svg>
