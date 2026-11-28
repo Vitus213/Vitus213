@@ -1,0 +1,64 @@
+{
+  "d7": {
+    "claude": {
+      "tokens": 0,
+      "cost": 0.0,
+      "unpriced_tokens": 0,
+      "active_seconds": 0.0
+    },
+    "codex": {
+      "tokens": 0,
+      "cost": 0.0,
+      "unpriced_tokens": 0,
+      "active_seconds": 0.0
+    },
+    "omp": {
+      "tokens": 8011976625,
+      "cost": 1477.8923989999998,
+      "unpriced_tokens": 4678184149,
+      "active_seconds": 422225.3
+    }
+  },
+  "d30": {
+    "claude": {
+      "tokens": 0,
+      "cost": 0.0,
+      "unpriced_tokens": 0,
+      "active_seconds": 0.0
+    },
+    "codex": {
+      "tokens": 0,
+      "cost": 0.0,
+      "unpriced_tokens": 0,
+      "active_seconds": 33.9
+    },
+    "omp": {
+      "tokens": 15843745831,
+      "cost": 2828.140138,
+      "unpriced_tokens": 4694492220,
+      "active_seconds": 954127.0000000001
+    }
+  },
+  "all": {
+    "claude": {
+      "tokens": 1716587748,
+      "cost": 812.7771359999999,
+      "unpriced_tokens": 0,
+      "active_seconds": 159889.40000000002
+    },
+    "codex": {
+      "tokens": 474089034,
+      "cost": 419.684131,
+      "unpriced_tokens": 0,
+      "active_seconds": 138536.69999999995
+    },
+    "omp": {
+      "tokens": 27779513556,
+      "cost": 6973.773497999998,
+      "unpriced_tokens": 5042017314,
+      "active_seconds": 2013084.7
+    }
+  },
+  "since": "2026-05-13",
+  "updated": "2026-11-29 05:03 CST"
+}

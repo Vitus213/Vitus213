@@ -1,0 +1,492 @@
+{
+  "version": 1,
+  "days": {
+    "2026-10-27": {
+      "omp": {
+        "input": 553899,
+        "output": 155772,
+        "cache_read": 15930432,
+        "cache_write": 0,
+        "tokens": 16640103,
+        "cost": 0.638884,
+        "unpriced_tokens": 0,
+        "models": {
+          "glm-5.3-flash": 16640103
+        },
+        "active_seconds": 9245.4
+      }
+    },
+    "2026-10-28": {
+      "omp": {
+        "input": 11739471,
+        "output": 684154,
+        "cache_read": 157999244,
+        "cache_write": 0,
+        "tokens": 170422869,
+        "cost": 22.870423,
+        "unpriced_tokens": 86531259,
+        "models": {
+          "deepseek-v4.1-flash": 86531259,
+          "gpt-6.1-sol": 64346616,
+          "glm-5.3-flash": 19544994
+        },
+        "active_seconds": 20199.8
+      }
+    },
+    "2026-10-29": {
+      "omp": {
+        "input": 18303545,
+        "output": 1709951,
+        "cache_read": 337487868,
+        "cache_write": 0,
+        "tokens": 357501364,
+        "cost": 88.585667,
+        "unpriced_tokens": 45677275,
+        "models": {
+          "auto/gpt-6.1-sol": 252083960,
+          "auto/glm-5.3-flash": 29463026,
+          "gpt-6.1-sol": 19113572,
+          "deepseek-v4.1-flash": 45677275,
+          "glm-5.3-flash": 11163531
+        },
+        "active_seconds": 47978.8
+      }
+    },
+    "2026-10-30": {
+      "omp": {
+        "input": 8562959,
+        "output": 1389869,
+        "cache_read": 408975680,
+        "cache_write": 0,
+        "tokens": 418928508,
+        "cost": 27.138854,
+        "unpriced_tokens": 22199168,
+        "models": {
+          "auto/gpt-6.1-sol": 84946112,
+          "glm-5.3-flash": 9034602,
+          "newapi/deepseek-v4.1-flash": 22199168,
+          "auto/glm-5.3-flash": 95268518,
+          "group/deepseek-v4-flash": 141302508,
+          "deepseek/deepseek-flash": 66177600
+        },
+        "active_seconds": 33886.8
+      }
+    },
+    "2026-10-31": {
+      "omp": {
+        "input": 26198,
+        "output": 27118,
+        "cache_read": 13995520,
+        "cache_write": 0,
+        "tokens": 14048836,
+        "cost": 0.124374,
+        "unpriced_tokens": 0,
+        "models": {
+          "group/deepseek-v4-flash": 14048836
+        },
+        "active_seconds": 999.1
+      }
+    },
+    "2026-11-02": {
+      "omp": {
+        "input": 4703437,
+        "output": 1635891,
+        "cache_read": 646779968,
+        "cache_write": 0,
+        "tokens": 653119296,
+        "cost": 12.300736,
+        "unpriced_tokens": 2336004,
+        "models": {
+          "group/deepseek-v4-flash": 523570554,
+          "auto/gpt-6.1-sol": 9856823,
+          "newapi/deepseek-v4.1-flash": 2336004,
+          "auto/glm-5.3-flash": 117355915
+        },
+        "active_seconds": 29391.7
+      }
+    },
+    "2026-11-03": {
+      "omp": {
+        "input": 54700798,
+        "output": 2551132,
+        "cache_read": 729681739,
+        "cache_write": 0,
+        "tokens": 786933669,
+        "cost": 174.449017,
+        "unpriced_tokens": 0,
+        "models": {
+          "auto/gpt-6.1-sol": 351978734,
+          "group/deepseek-v4-flash": 428572090,
+          "auto/glm-5.3-flash": 6382845
+        },
+        "active_seconds": 26693.2
+      }
+    },
+    "2026-11-04": {
+      "omp": {
+        "input": 19438856,
+        "output": 3486124,
+        "cache_read": 628208962,
+        "cache_write": 0,
+        "tokens": 651133942,
+        "cost": 95.751063,
+        "unpriced_tokens": 0,
+        "models": {
+          "auto/gpt-6.1-sol": 244450467,
+          "group/deepseek-v4-flash": 406683475
+        },
+        "active_seconds": 32711.7
+      }
+    },
+    "2026-11-05": {
+      "omp": {
+        "input": 156253,
+        "output": 79608,
+        "cache_read": 14507264,
+        "cache_write": 0,
+        "tokens": 14743125,
+        "cost": 0.229449,
+        "unpriced_tokens": 0,
+        "models": {
+          "group/deepseek-v4-flash": 14743125
+        },
+        "active_seconds": 1845.9
+      }
+    },
+    "2026-11-06": {
+      "omp": {
+        "input": 1699420,
+        "output": 372573,
+        "cache_read": 123078784,
+        "cache_write": 0,
+        "tokens": 125150777,
+        "cost": 8.477593,
+        "unpriced_tokens": 0,
+        "models": {
+          "group/deepseek-v4-flash": 103440641,
+          "auto/gpt-6.1-sol": 21710136
+        },
+        "active_seconds": 12245.0
+      }
+    },
+    "2026-11-13": {
+      "omp": {
+        "input": 986906,
+        "output": 172363,
+        "cache_read": 23391616,
+        "cache_write": 0,
+        "tokens": 24550885,
+        "cost": 7.651394,
+        "unpriced_tokens": 0,
+        "models": {
+          "auto/gpt-6.1-sol": 24550885
+        },
+        "active_seconds": 5623.2
+      }
+    },
+    "2026-11-14": {
+      "omp": {
+        "input": 4896297,
+        "output": 425387,
+        "cache_read": 118405632,
+        "cache_write": 0,
+        "tokens": 123727316,
+        "cost": 33.221788,
+        "unpriced_tokens": 0,
+        "models": {
+          "auto/gpt-6.1-sol": 123727316
+        },
+        "active_seconds": 21410.1
+      }
+    },
+    "2026-11-15": {
+      "omp": {
+        "input": 4218065,
+        "output": 293472,
+        "cache_read": 152164096,
+        "cache_write": 0,
+        "tokens": 156675633,
+        "cost": 37.438863,
+        "unpriced_tokens": 0,
+        "models": {
+          "auto/gpt-6.1-sol": 156675633
+        },
+        "active_seconds": 15362.9
+      }
+    },
+    "2026-11-16": {
+      "omp": {
+        "input": 16279718,
+        "output": 2020807,
+        "cache_read": 747294592,
+        "cache_write": 0,
+        "tokens": 765595117,
+        "cost": 70.79156,
+        "unpriced_tokens": 0,
+        "models": {
+          "codex/gpt-6.1-sol": 95185362,
+          "glm-5.3-flash": 595382334,
+          "auto/gpt-6.1-sol": 75027421
+        },
+        "active_seconds": 45574.1
+      }
+    },
+    "2026-11-17": {
+      "omp": {
+        "input": 39469206,
+        "output": 3565965,
+        "cache_read": 1161294784,
+        "cache_write": 0,
+        "tokens": 1204329955,
+        "cost": 180.635029,
+        "unpriced_tokens": 0,
+        "models": {
+          "auto/gpt-6.1-sol": 435097893,
+          "glm-5.3-flash": 755005546,
+          "gpt-5.6-sol": 14226516
+        },
+        "active_seconds": 65449.9
+      },
+      "codex": {
+        "input": 0,
+        "output": 0,
+        "cache_read": 0,
+        "cache_write": 0,
+        "tokens": 0,
+        "cost": 0.0,
+        "unpriced_tokens": 0,
+        "models": {},
+        "active_seconds": 33.9
+      }
+    },
+    "2026-11-18": {
+      "omp": {
+        "input": 31169485,
+        "output": 5019290,
+        "cache_read": 1177099968,
+        "cache_write": 0,
+        "tokens": 1213288743,
+        "cost": 138.276851,
+        "unpriced_tokens": 13740844,
+        "models": {
+          "glm-5.3-flash": 401650433,
+          "auto/glm-5.3-flash": 308761172,
+          "auto/gpt-6.1-sol": 494120,
+          "codex/gpt-6.1-sol": 488642174,
+          "deepseek-v4.1-flash": 13740844
+        },
+        "active_seconds": 64228.8
+      }
+    },
+    "2026-11-19": {
+      "omp": {
+        "input": 18852940,
+        "output": 2454211,
+        "cache_read": 619418688,
+        "cache_write": 0,
+        "tokens": 640725839,
+        "cost": 165.303501,
+        "unpriced_tokens": 0,
+        "models": {
+          "codex/gpt-6.2-sol": 293631270,
+          "codex/gpt-6.1-sol": 308708519,
+          "glm-5.3-flash": 36008347,
+          "auto/glm-5.3-flash": 2377703
+        },
+        "active_seconds": 51405.9
+      }
+    },
+    "2026-11-20": {
+      "omp": {
+        "input": 3672257,
+        "output": 390730,
+        "cache_read": 57554176,
+        "cache_write": 0,
+        "tokens": 61617163,
+        "cost": 21.266667,
+        "unpriced_tokens": 0,
+        "models": {
+          "codex/gpt-6.2-sol": 51913799,
+          "codex/gpt-6.1-sol": 9703364
+        },
+        "active_seconds": 13837.6
+      }
+    },
+    "2026-11-21": {
+      "omp": {
+        "input": 719528,
+        "output": 152954,
+        "cache_read": 16463232,
+        "cache_write": 0,
+        "tokens": 17335714,
+        "cost": 4.737118,
+        "unpriced_tokens": 0,
+        "models": {
+          "codex/gpt-6.2-sol": 15645554,
+          "codex/gpt-6.1-sol": 1690160
+        },
+        "active_seconds": 4384.4
+      }
+    },
+    "2026-11-22": {
+      "omp": {
+        "input": 11139492,
+        "output": 1250348,
+        "cache_read": 221820672,
+        "cache_write": 0,
+        "tokens": 234210512,
+        "cost": 80.975522,
+        "unpriced_tokens": 0,
+        "models": {
+          "codex/gpt-6.2-sol": 214806172,
+          "codex/gpt-6.1-sol": 19404340
+        },
+        "active_seconds": 27863.3
+      }
+    },
+    "2026-11-23": {
+      "omp": {
+        "input": 23587280,
+        "output": 3531510,
+        "cache_read": 558088832,
+        "cache_write": 0,
+        "tokens": 585207622,
+        "cost": 118.485467,
+        "unpriced_tokens": 229901853,
+        "models": {
+          "codex/gpt-6.2-sol": 337099364,
+          "glm/glm-5.4": 229901853,
+          "codex/gpt-6.1-sol": 18206405
+        },
+        "active_seconds": 55756.5
+      }
+    },
+    "2026-11-24": {
+      "omp": {
+        "input": 50147581,
+        "output": 4483337,
+        "cache_read": 1049855040,
+        "cache_write": 0,
+        "tokens": 1104485958,
+        "cost": 126.083927,
+        "unpriced_tokens": 712209104,
+        "models": {
+          "codex/gpt-6.2-sol": 391678219,
+          "glm/glm-5.4": 261341724,
+          "auto/glm-5.4": 450867380,
+          "glm-5.3-flash": 598635
+        },
+        "active_seconds": 53293.3
+      }
+    },
+    "2026-11-25": {
+      "omp": {
+        "input": 54345599,
+        "output": 10368920,
+        "cache_read": 1807096064,
+        "cache_write": 0,
+        "tokens": 1871810583,
+        "cost": 437.879244,
+        "unpriced_tokens": 1220555564,
+        "models": {
+          "codex/gpt-6.2-astra": 310114865,
+          "codex/gpt-6.2-sol": 340867900,
+          "auto/gpt-6.2-astra": 272254,
+          "auto/glm-5.4": 1208840561,
+          "glm/glm-5.4": 11715003
+        },
+        "active_seconds": 77324.8
+      }
+    },
+    "2026-11-26": {
+      "omp": {
+        "input": 39654742,
+        "output": 9474915,
+        "cache_read": 1850731584,
+        "cache_write": 0,
+        "tokens": 1899861241,
+        "cost": 305.639242,
+        "unpriced_tokens": 1417487240,
+        "models": {
+          "codex/gpt-6.2-astra": 313648071,
+          "auto/glm-5.4": 1412268351,
+          "codex/gpt-6.1-sol": 53452021,
+          "codex/gpt-6.2-sol": 115273909,
+          "glm/glm-5.4": 5218889
+        },
+        "active_seconds": 69124.6
+      }
+    },
+    "2026-11-27": {
+      "omp": {
+        "input": 20044123,
+        "output": 4667346,
+        "cache_read": 1010543040,
+        "cache_write": 0,
+        "tokens": 1035254509,
+        "cost": 79.676438,
+        "unpriced_tokens": 897353031,
+        "models": {
+          "auto/glm-5.4": 897353031,
+          "codex/gpt-6.1-sol": 44097861,
+          "gemini-2/gemini-4-neon": 2651731,
+          "codex/gpt-6.2-astra": 27449043,
+          "codex/gpt-6.2-sol": 63175687,
+          "auto/deepseek-v4-pro": 527156
+        },
+        "active_seconds": 38052.1
+      }
+    },
+    "2026-11-28": {
+      "omp": {
+        "input": 4026776,
+        "output": 183046,
+        "cache_read": 18879360,
+        "cache_write": 0,
+        "tokens": 23089182,
+        "cost": 11.414925,
+        "unpriced_tokens": 16634595,
+        "models": {
+          "gemini-2/gemini-4-neon": 3069944,
+          "auto/glm-5.4": 16634595,
+          "codex/gpt-6.1-sol": 3384643
+        },
+        "active_seconds": 22260.4
+      }
+    },
+    "2026-11-29": {
+      "omp": {
+        "input": 376120,
+        "output": 20972,
+        "cache_read": 0,
+        "cache_write": 0,
+        "tokens": 397092,
+        "cost": 1.44294,
+        "unpriced_tokens": 0,
+        "models": {
+          "gemini-2/gemini-4-neon": 397092
+        },
+        "active_seconds": 1223.8
+      }
+    }
+  },
+  "omp_pricing": {
+    "glm-5.3-flash": "zai/glm-5.3-flash",
+    "codex/gpt-6.2-sol": "gpt-6.2-sol",
+    "auto/gpt-6.1-sol": "gpt-6.1-sol",
+    "group/deepseek-v4-flash": "deepseek-v4-flash",
+    "codex/gpt-6.1-sol": "gpt-6.1-sol",
+    "auto/glm-5.4": null,
+    "gemini-2/gemini-4-neon": "gemini/gemini-4-neon",
+    "glm/glm-5.4": null,
+    "codex/gpt-6.2-astra": "gpt-6.2-astra",
+    "auto/glm-5.3-flash": "zai/glm-5.3-flash",
+    "newapi/deepseek-v4.1-flash": null,
+    "auto/gpt-6.2-astra": "gpt-6.2-astra",
+    "gpt-6.1-sol": "gpt-6.1-sol",
+    "deepseek-v4.1-flash": null,
+    "deepseek/deepseek-flash": "deepseek-flash",
+    "gpt-5.6-sol": "gpt-5.6-sol",
+    "auto/deepseek-v4-pro": "deepseek-v4-pro"
+  }
+}
